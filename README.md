@@ -18,6 +18,16 @@ For each movie displayed, user can see the following details:
 * [ x ] Improved the user interface by experimenting with styling and coloring.
 * [ x ] Apply rounded corners for the poster or background images using [Glide transformations](https://guides.codepath.org/android/Displaying-Images-with-the-Glide-Library#transformations)
 
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+<img src = 'walkthroughP.gif' title = 'Video walkrhough' width= '' alt = 'Video Walkthrough' />
+<img src = 'walkthroughL.gif' title = 'Video walkrhough' width= '' alt = 'Video Walkthrough' />
+
+ 
+
+
 The following **additional** features are implemented:
 
 * [ x ] The user can go to Fandago to purchase tickets and see showtimes
